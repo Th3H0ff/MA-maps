@@ -10,3 +10,6 @@ Welcome to the MasterArms Airport Charts repo — the central, versioned, collab
 This project is proudly maintained for the MasterArms.se community — the go-to place for everything DCS related within our group.
 ➡️ Visit us: https://masterarms.se/
 Whether you’re training new pilots, preparing missions, or publishing guides, our charts help make flights safer and missions more immersive.
+
+
+**File naming convention**
