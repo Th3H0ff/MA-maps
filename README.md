@@ -13,3 +13,10 @@ Whether you’re training new pilots, preparing missions, or publishing guides, 
 
 
 **File naming convention**
+
+Each airport is sorted into a folder namned after the **ICAO code for that airport**. I that folder lies four main file types
+*ICAOgimp.xcf - The GIMP file of the map, usuelly taken from a DCS F10 map screenshot.
+*ICAO.docx - A Microsoft Word file containing the GIMP map overlayed on the Master Arms airport chart template.
+*ICAOgimp.png - Export file from GIMP
+*ICAO.png - Image export of the completed Word file.
+*ICAOinvert.png - Inverted export of the Word file, for night mission compatiblity.
